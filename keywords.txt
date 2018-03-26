@@ -1,0 +1,6 @@
+AButton	KEYWORD1
+on_up	KEYWORD2
+on_down	KEYWORD2
+on_click	KEYWORD2
+on_dbl_click	KEYWORD2
+is_active_low	KEYWORD2
