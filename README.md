@@ -2,7 +2,11 @@
 
 Yet Another Arduino Button library ;-)
 
-**DISCLAIMER** This is mostly a personal experiment. Use at your own risk ;-)
+> [!IMPORTANT]  
+> This repo has been [archived](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories#)
+
+> [!WARNING]
+> This is mostly a personal experiment. Use at your own risk ;-)
 
 ## Installation
 
